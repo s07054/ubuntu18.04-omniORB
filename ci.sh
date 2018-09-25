@@ -96,7 +96,7 @@ License. See COPYING' \
      omniORB-4.2.2.tar.bz2' \
      --pkgaltsource='https://sourceforge.net/projects/omniorb/\
      files/omniORB/omniORB-4.2.2/\
-     omniORB-4.2.2.tar.bz2'
+     omniORB-4.2.2.tar.bz2' \
      --bk \
      --backup='yes' \
      -D make install
